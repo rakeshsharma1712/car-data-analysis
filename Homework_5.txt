@@ -1,0 +1,12 @@
+Q1: uv 0.13.5 (46776a95d 2026-10-21 x86_64-pc-windows-msvc)
+Q2: scikit-learn==1.7.2
+Exact probability: 0.5329944186432507
+Q3 answer (3 decimals): 0.533
+
+Q4 — Conversion probability
+0.770
+
+Q5 — Correct option
+python:3.11.15-slim-bookworm
+
+Q6 — probability 0.769799, conversion True
